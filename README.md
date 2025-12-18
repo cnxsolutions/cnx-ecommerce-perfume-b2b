@@ -1,7 +1,7 @@
-# CNX – E-commerce Parfums Luxe B2C & B2B – LucienMayolle.com
+# CNX – E-commerce Parfums B2C & B2B – LucienMayolle.com
 
 🔗 Site client (public) : https://lucienmayolle.com  
-Boutique en ligne de parfums de luxe et produits associés, adressant une clientèle B2C
+Boutique en ligne de parfums et produits associés, adressant une clientèle B2C
 et B2B (revendeurs / partenaires). Le site propose des catégories par genre et
 contenances (Femmes, Hommes, Unisexe). :contentReference[oaicite:2]{index=2}
 
