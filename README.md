@@ -3,7 +3,7 @@
 🔗 Site client (public) : https://lucienmayolle.com  
 Boutique en ligne de parfums et produits associés, adressant une clientèle B2C
 et B2B (revendeurs / partenaires). Le site propose des catégories par genre et
-contenances (Femmes, Hommes, Unisexe). :contentReference[oaicite:2]{index=2}
+contenances (Femmes, Hommes, Unisexe).
 
 ---
 
@@ -12,8 +12,8 @@ contenances (Femmes, Hommes, Unisexe). :contentReference[oaicite:2]{index=2}
 > Captures de l’interface publique (sans données sensibles)
 
 ![Accueil](docs/screenshots/homepage.png)
-![Catalogue parfums](docs/screenshots/catalogue.png)
-![Fiche produit](docs/screenshots/product.png)
+![Catalogue parfums](docs/screenshots/produits.png)
+![Fiche produit](docs/screenshots/tunnel.png)
 
 ---
 
@@ -66,7 +66,7 @@ Optimisation des Core Web Vitals pour soutenir une expérience haut de gamme.
 
 ## 4️⃣ SEO — Stratégie Organique
 
-👉 Voir `docs/seo/seo-strategy.md`  
+👉 Voir `docs/architecture/seo-strategy.md`  
 Stratégie complète : mots-clés luxe, optimisation technique, contenu riche,
 SEO local (si points de vente physiques), rich snippets produits.
 
@@ -74,7 +74,7 @@ SEO local (si points de vente physiques), rich snippets produits.
 
 ## 5️⃣ Acquisition — SEA & Marketing
 
-👉 Voir `docs/marketing/acquisition-strategy.md`  
+👉 Voir `docs/architecture/acquisition-strategy.md`  
 SEA (Recherche & Shopping), stratégie social ads ciblées,
 influenceurs luxe, partenariats B2B, événements & RP.
 
@@ -101,8 +101,8 @@ influenceurs luxe, partenariats B2B, événements & RP.
 ## 📄 Documentation
 
 - [Architecture & Développement](docs/architecture/overview.md)
-- [Stratégie SEO](docs/seo/seo-strategy.md)
-- [Acquisition & Marketing](docs/marketing/acquisition-strategy.md)
+- [Stratégie SEO](docs/architecture/seo-strategy.md)
+- [Acquisition & Marketing](docs/architecture/acquisition-strategy.md)
 
 ---
 
